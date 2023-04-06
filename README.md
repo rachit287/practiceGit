@@ -9,3 +9,4 @@
   * Time Travelling and Undoing Changes
   * Git Diff
   * Resolving Merge Conflicts
+  * Rebasing
